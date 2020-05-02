@@ -1,0 +1,16 @@
+{
+	"name": "LostThralls",
+	"description": "This mod adds the deleted IDs from AoC back into the spawn tables. I don't have the actual data, so I just winged it.\n\nReally use this to get your equipment back and delete these thralls once done. Or you can play with it, feel free to mod it yourself. \n\nGithub source: [url=https://github.com/teella/LostThralls]LostThralls on GitHub[/url]",
+	"changeNote": "Added IDs: \nElvanor-Magus\nElven-Dancer\nElven-NightRanger\nCold-Embrace-Captain\nCold-Embrace-Commander\nCold-Embrace-EmpyrusKnight\nElven-Captain\nElven-General\nStormhold-General\nStormhold-Officer\nVanghoul-Captain\nVanghoul-Mashoon\n",
+	"author": "Me",
+	"authorUrl": "",
+	"versionMajor": 1,
+	"versionMinor": 0,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "2081202770",
+	"steamVisibility": 0,
+	"folderName": "LostThralls",
+	"revisionNumber": 204197,
+	"snapshotId": 24057
+}
